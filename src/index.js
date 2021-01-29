@@ -1,17 +1,27 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
+import Componentdautien from "./componentdautien";
+import Header from "./components/Header";
+import Banner from "./components/Banner";
+import PlayerInfo from "./components/PlayerInfo";
+import RoomList from "./components/RoomList";
+import AboutUs from "./components/AboutUs";
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+      <div className="container">
+          <Header />
+          <Banner />
+          <PlayerInfo />
+          <RoomList />
+          <AboutUs />
+      </div>
+
   </React.StrictMode>,
   document.getElementById('root')
 );
 
-// If you want to start measuring performance in your app, pass a function
-// to log results (for example: reportWebVitals(console.log))
-// or send to an analytics endpoint. Learn more: https://bit.ly/CRA-vitals
-reportWebVitals();
