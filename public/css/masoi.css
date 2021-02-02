@@ -7,3 +7,11 @@
     padding: 15px;
     border: 1px dashed ;
 }
+.display_name{
+    height: 40px;
+    width: 100%;
+    margin: auto;
+}
+.name_input{
+    width: 150px;
+}

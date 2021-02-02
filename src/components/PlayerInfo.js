@@ -1,8 +1,10 @@
 import React from "react";
+import DisplayName from "./DisplayName";
 const PlayerInfo = () => {
     return (
         <div >
-            <h1>Player Info</h1>
+            <h2>Player Info</h2>
+            <DisplayName />
         </div>
     );
 }
