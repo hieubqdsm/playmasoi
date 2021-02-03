@@ -13,7 +13,7 @@ const DisplayName = () => {
     return <div className="display_name">
         <h3>{displayName}</h3>
         <input type="text" ref={textInput} className="name_input"/>
-        <button onClick={() => setDisplayName(textInput.current.value)}>Change Name</button>
+        <button onClick={() => setDisplayName(textInput.current.value?textInput.current.value:"Please Set A Name")}>Change Name</button>
     </div>
 };
 export default DisplayName;
