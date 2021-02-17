@@ -1,21 +1,21 @@
 {
   "files": {
     "main.css": "/playmasoi/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/playmasoi/static/js/main.69dc495b.chunk.js",
-    "main.js.map": "/playmasoi/static/js/main.69dc495b.chunk.js.map",
+    "main.js": "/playmasoi/static/js/main.3feabb8c.chunk.js",
+    "main.js.map": "/playmasoi/static/js/main.3feabb8c.chunk.js.map",
     "runtime-main.js": "/playmasoi/static/js/runtime-main.51f44e2e.js",
     "runtime-main.js.map": "/playmasoi/static/js/runtime-main.51f44e2e.js.map",
-    "static/js/2.ced9c950.chunk.js": "/playmasoi/static/js/2.ced9c950.chunk.js",
-    "static/js/2.ced9c950.chunk.js.map": "/playmasoi/static/js/2.ced9c950.chunk.js.map",
+    "static/js/2.dde4909a.chunk.js": "/playmasoi/static/js/2.dde4909a.chunk.js",
+    "static/js/2.dde4909a.chunk.js.map": "/playmasoi/static/js/2.dde4909a.chunk.js.map",
     "index.html": "/playmasoi/index.html",
     "static/css/main.6dea0f05.chunk.css.map": "/playmasoi/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.ced9c950.chunk.js.LICENSE.txt": "/playmasoi/static/js/2.ced9c950.chunk.js.LICENSE.txt",
+    "static/js/2.dde4909a.chunk.js.LICENSE.txt": "/playmasoi/static/js/2.dde4909a.chunk.js.LICENSE.txt",
     "static/media/bannerHeader.5775ab73.png": "/playmasoi/static/media/bannerHeader.5775ab73.png"
   },
   "entrypoints": [
     "static/js/runtime-main.51f44e2e.js",
-    "static/js/2.ced9c950.chunk.js",
+    "static/js/2.dde4909a.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
-    "static/js/main.69dc495b.chunk.js"
+    "static/js/main.3feabb8c.chunk.js"
   ]
 }
