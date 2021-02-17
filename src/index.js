@@ -9,6 +9,12 @@ import PlayerInfo from "./components/PlayerInfo";
 import RoomList from "./components/RoomList";
 import AboutUs from "./components/AboutUs";
 import TestData from "./components/TestData";
+fetch("https://gorgeous-dull-copper.glitch.me/dreams").then(res => res.json()).then((result)=>{
+    console.log(result);
+
+})
+
+;
 ReactDOM.render(
   <React.StrictMode>
       <div className="container">
